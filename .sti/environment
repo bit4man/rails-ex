@@ -1,0 +1,3 @@
+no_proxy=ose3-master.uscis.dhs.gov
+http_proxy=10.193.244.21:80
+https_proxy=10.193.244.21:80
